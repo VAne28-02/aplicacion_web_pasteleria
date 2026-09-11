@@ -339,7 +339,7 @@ footer {
 
 <header>
 
-    <h1>🍰 Dulce Encanto</h1>
+    <h1> Dulce Encanto</h1>
 
     <p>
         Sistema de gestión de productos
@@ -554,7 +554,7 @@ footer {
                 echo $producto["id"];
             ?>"
         >
-            ✏️ Editar
+             Editar
         </a>
 
 
@@ -580,7 +580,7 @@ footer {
                 type="submit"
                 class="btn-eliminar"
             >
-                🗑 Eliminar
+                 Eliminar
             </button>
 
         </form>
